@@ -1,0 +1,6 @@
+gradio>=5.0
+openai>=1.60
+python-dotenv>=1.0
+pillow>=10.0
+easyocr>=1.7
+numpy>=1.26
